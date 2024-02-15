@@ -1,0 +1,45 @@
+Default structures that are NOT core.
+
+catwalk
+Trapdoor
+Crop plots
+Door
+Fence Foundation
+Fence Support
+Gate (Door)
+Gate Frame
+Rope Ladder
+Ladder
+Pillar
+Ramp
+Spike Wall
+Stairs
+Window (the thing that fills the hole)
+Slooped Roof ??? (The square is NOT core but the triangular is)
+Storage Boxes (Small, Large & Vault)
+Beds (Sleeping Bag, Simple, Bunk, even the Tek Pod)
+
+Elevator
+Feeding Through
+Sap Tap
+Water Tank
+Pipes
+Wires
+
+
+
+
+ARE core
+
+Foundation (Square & Triangular)
+Ceiling (Square & Triangular)
+Cailing with trapdoor
+Door Frame
+Railing
+Wall (normal & large)
+Slooped Wall
+Window Frame (Wall)
+Spiral Stairs
+Tree Platform
+Underwater Compartments
+Triangular Slooped Roof
